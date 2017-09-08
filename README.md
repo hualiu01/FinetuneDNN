@@ -1,9 +1,6 @@
-
-##!!!!!
-## SINCE THE TUNED MODEL IS TOO BIG I DIDN'T PUT THEM IN THE FOLDER!!
-
-# data base 
-download the lfw_funneled data and put it in `lfw_funneled` folder.
+# data base
+SINCE THE TUNED MODEL IS TOO BIG I DIDN'T PUT THEM IN THE FOLDER!!
+So please first download the lfw_funneled data and put it in `lfw_funneled` folder.
 
 # run
 Please first change your current path to the `src` folder.
